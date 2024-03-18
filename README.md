@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Anuar Seleme](https://github.com/anuarseleme/AnuarSeleme/assets/26641300/56164374-952f-4465-a0a9-0b5acb454a33)
+![Anuar Seleme horizontal](https://github.com/anuarseleme/AnuarSeleme/assets/26641300/661f698d-3e03-4311-aa53-236bae80b6e0)
+
 
 - 🔭 I teach Physics and Math at Instituto Tecnológico de Durango
 - 🌱 I’m currently stydying a PhD in Educational Technology
